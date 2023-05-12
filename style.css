@@ -1,0 +1,151 @@
+body
+{
+  margin: 0;
+  background-color:grey;
+}
+.welcom
+{
+  color: maroon;
+  background-color: white;
+  font-style: italic;
+  border: 10px solid red;
+  text-align: center;
+  margin: 10px 20px 30px 40px;
+  height: 150px;
+  width: 500px;
+  border-radius: 5%;
+  margin-top: 50px;
+  position: relative;
+  left: 400px;
+  text-shadow: 2px 2px red;
+}
+.box
+{
+  border: 10px solid green;
+  padding: 0px;
+}
+.one
+{
+  color: black;
+  background-color: white;
+  font-style: italic;
+  border: 10px solid red;
+  text-align: center;
+  height: 200px;
+  width: 200px;
+  border-radius: 5%;
+  margin-top: 1px;
+  word-spacing: 5px;
+}
+.submit
+{
+    text-size-adjust: 50px;
+    text-shadow: 3px 3px pink;
+}
+.two
+{   
+    background-image: url(./istockphoto-1352758440-170667a.jpg);
+    background-color: white;
+    border: 10px solid red;
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+    margin-top: 2px;
+    top: 42%;
+    position: absolute;
+    right: 1%;
+}
+.three
+{
+    color: black;
+    background-color: white;
+    font-style: italic;
+    border: 10px solid red;
+    text-align: center;
+    /* margin: 10px 20px 30px 40px; */
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+    margin-top: 100px;
+}
+
+.four
+{
+    color: black;
+    background-color: white;
+    font-style: italic;
+    border: 10px solid red;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+    margin-top: 50px;
+    position: absolute;
+    top: 90%;
+    right: 1%;
+}
+.five
+{
+   color: red;
+    background-color: greenyellow;
+    font-style: italic;
+    border: 10px solid red;
+    text-align: center;
+    margin: 10px 20px 30px 40px;
+    height: 100px;
+    width: 400px;
+    border-radius: 5%;
+    margin-top: 300px;
+    position: fixed;
+    left: 500px;
+    top: 500px;
+    top: 23px;
+    z-index: 5;
+}
+.six
+{
+    background-color: green;
+    border: 10px solid purple;
+    height: 500px;
+    width: 695px;
+    position: relative;
+    left: 25%;
+}
+.store
+{
+    text-align: center;
+}
+.seven
+ {
+  color: black;
+  background-color: yellow;
+  text-align: center;
+  font-style: italic;
+  margin: 20px 30px 40px 50px;
+  height: 200px;
+  width: 300px;
+  flex-direction: column;
+}
+.fruits
+{
+  float: left;
+  position: relative;
+  top: 1%;
+}
+.veges
+{
+    float: right;
+    position: absolute;
+    top: 14%;
+    right: 1%;
+}
+.other 
+{
+    clear: both;
+    position: relative;
+    width: 90%;
+    height: 35%;
+    top: 0%;
+}
+
+
